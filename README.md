@@ -1,115 +1,58 @@
 <div align="center">
 
-# MOWLİJA<span style="color:#ff1a1a;">.</span>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:050505,50:180000,100:ff1a1a&height=220&section=header&text=MOWLİJA.&fontSize=52&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=ECE%20STUDENT%20%7C%20AI%20ENTHUSIAST%20%7C%20FULL-STACK%20DEVELOPER&descAlignY=60&descSize=17&descColor=ff3333"/>
 
-### I Learn. I Build. I Create.
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=FF1A1A&center=true&vCenter=true&width=700&lines=Exploring+Artificial+Intelligence;Building+Real-World+Projects;Designing+Digital+Experiences;Learning+Full-Stack+Development;Turning+Ideas+Into+Reality" alt="Typing SVG" />
 
-**ECE Student • AI Enthusiast • UX/UI Designer • Full-Stack Developer • Content Creator**
+<br/><br/>
 
-[![Instagram](https://img.shields.io/badge/@mowli.learns-000000?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/mowli.learns)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-000000?style=for-the-badge&logo=linkedin&logoColor=white)](YOUR_LINKEDIN_URL)
-[![GitHub](https://img.shields.io/badge/GitHub-000000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/mowlijamr)
+<img src="https://img.shields.io/badge/EDUCATION-B.E.%20ECE-0A0A0A?style=for-the-badge&labelColor=1A1A1A&color=FF1A1A"/>
+<img src="https://img.shields.io/badge/FOCUS-AI%20%7C%20UX%2FUI%20%7C%20FULL%20STACK-0A0A0A?style=for-the-badge&labelColor=1A1A1A&color=FF1A1A"/>
+<img src="https://img.shields.io/badge/BASED%20IN-INDIA-0A0A0A?style=for-the-badge&labelColor=1A1A1A&color=8B0000"/>
 
-</div>
+<br/><br/>
 
----
+<a href="YOUR_LINKEDIN_URL">
+<img src="https://img.shields.io/badge/LinkedIn-Connect-0A0A0A?style=for-the-badge&logo=linkedin&logoColor=FFFFFF&labelColor=1A1A1A&color=FF1A1A"/>
+</a>
 
-<div align="center">
+<a href="mailto:YOUR_EMAIL">
+<img src="https://img.shields.io/badge/Email-Contact-0A0A0A?style=for-the-badge&logo=gmail&logoColor=FFFFFF&labelColor=1A1A1A&color=FF1A1A"/>
+</a>
 
-## ⚡ THE CURIOUS MIND
-
-</div>
-
-I'm **Mowlija**, an Electronics & Communication Engineering student
-exploring the intersection of **AI, technology, design and development**.
-
-I learn by building, experiment with new technologies, create digital
-experiences and share what I discover through **@mowli.learns**.
-
-> **Doing what I once wished I could do.**
-
----
-
-## 🧠 WHAT I DO
-
-| | Focus |
-|---|---|
-| 🤖 | **AI Enthusiast** — Exploring AI tools, applications & emerging technologies |
-| 🎨 | **UX/UI Designer** — Designing clean and user-focused digital experiences |
-| 💻 | **Full-Stack Developer** — Building responsive web applications |
-| 🎥 | **Content Creator** — AI, Tech, Learning & Student Journey |
-| ✂️ | **Video Editor** — Freelance editing for creators & brands |
-| ✍️ | **Script Writer** — Scripts, reels & digital content |
-
----
-
-## 🚀 TECHNOLOGY
-
-### Development
-
-![HTML](https://img.shields.io/badge/HTML-000000?style=flat-square&logo=html5&logoColor=ff1a1a)
-![CSS](https://img.shields.io/badge/CSS-000000?style=flat-square&logo=css3&logoColor=ff1a1a)
-![JavaScript](https://img.shields.io/badge/JavaScript-000000?style=flat-square&logo=javascript&logoColor=ff1a1a)
-![React](https://img.shields.io/badge/React-000000?style=flat-square&logo=react&logoColor=ff1a1a)
-![Node.js](https://img.shields.io/badge/Node.js-000000?style=flat-square&logo=nodedotjs&logoColor=ff1a1a)
-![Express](https://img.shields.io/badge/Express-000000?style=flat-square&logo=express&logoColor=ff1a1a)
-![MongoDB](https://img.shields.io/badge/MongoDB-000000?style=flat-square&logo=mongodb&logoColor=ff1a1a)
-
-### Design
-
-![Figma](https://img.shields.io/badge/Figma-000000?style=flat-square&logo=figma&logoColor=ff1a1a)
-![Photoshop](https://img.shields.io/badge/Photoshop-000000?style=flat-square&logo=adobephotoshop&logoColor=ff1a1a)
-
-### AI & Tools
-
-![AI](https://img.shields.io/badge/AI%20%26%20Generative%20AI-000000?style=flat-square&logo=openai&logoColor=ff1a1a)
-![Git](https://img.shields.io/badge/Git-000000?style=flat-square&logo=git&logoColor=ff1a1a)
-![GitHub](https://img.shields.io/badge/GitHub-000000?style=flat-square&logo=github&logoColor=ff1a1a)
-![VS Code](https://img.shields.io/badge/VS%20Code-000000?style=flat-square&logo=visualstudiocode&logoColor=ff1a1a)
-
----
-
-<div align="center">
-
-## 🩸 FEATURED PROJECT
-
-### ARAN — WOMEN SAFETY APP
-
-**Emergency assistance • Safety • Location • SOS**
-
-A women safety application designed to provide rapid emergency
-assistance through SOS activation, emergency communication,
-location sharing and safety-focused features.
-
-**Tech:** Flutter • Android • Geolocation • Emergency Automation
+<a href="https://github.com/mowlijamr">
+<img src="https://img.shields.io/badge/GitHub-Profile-0A0A0A?style=for-the-badge&logo=github&logoColor=FFFFFF&labelColor=1A1A1A&color=FF1A1A"/>
+</a>
 
 </div>
 
 ---
 
-## 🔥 AI PROJECTS
+## `> whoami`
 
-- 🤖 **AI-Powered Resume Analyzer**
-- 🧠 **AI Career Guidance**
-- 💡 **AI-powered productivity concepts**
-- 🎨 **AI + UX experiments**
-- 🚀 **Generative AI projects**
+```yaml
+name: M.R. Mowlija
 
-> More experiments are being built.
+education:
+  degree: B.E. Electronics & Communication Engineering
+  field: Electronics & Communication Engineering
 
----
+role:
+  - AI Enthusiast
+  - Full-Stack Developer
+  - UX/UI Designer
 
-## 🎨 DESIGN × DEVELOPMENT
+focus:
+  - Artificial Intelligence
+  - Full-Stack Development
+  - UX/UI Design
+  - Real-World Projects
 
-I enjoy working at the intersection of:
+currently_learning:
+  - Advanced AI Applications
+  - Full-Stack Development
+  - Python
+  - SQL
 
-```text
-          AI
-           ↓
-       TECHNOLOGY
-        ↙       ↘
-      DESIGN   CODE
-        ↘       ↙
-       EXPERIENCE
-           ↓
-        PEOPLE
+mindset:
+  Learn → Build → Experiment → Improve
