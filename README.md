@@ -1,433 +1,115 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f172a,50:6d28d9,100:a855f7&height=230&section=header&text=M.R.%20Mowlija&fontSize=52&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=ECE%20Student%20%7C%20AI%20Enthusiast%20%7C%20Full%20Stack%20Developer&descAlignY=60&descSize=19"/>
+# MOWLİJA<span style="color:#ff1a1a;">.</span>
 
-<br/>
+### I Learn. I Build. I Create.
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=21&duration=2800&pause=900&color=A78BFA&center=true&vCenter=true&width=750&lines=Building+AI-Powered+Applications+%F0%9F%A4%96;Exploring+Generative+AI+%F0%9F%A7%A0;Learning+Agentic+AI+%F0%9F%9A%80;Full+Stack+Development+Journey+%F0%9F%92%BB;Turning+Ideas+Into+Real+Projects+%E2%9C%A8" alt="Typing Animation"/>
+**ECE Student • AI Enthusiast • UX/UI Designer • Full-Stack Developer • Content Creator**
 
-<br/><br/>
-
-<img src="https://img.shields.io/badge/B.E.-Electronics%20%26%20Communication%20Engineering-7C3AED?style=for-the-badge&logo=googlescholar&logoColor=white"/>
-
-<img src="https://img.shields.io/badge/FOCUS-Artificial%20Intelligence-A855F7?style=for-the-badge"/>
-
-<img src="https://img.shields.io/badge/ROLE-Full%20Stack%20Developer-6D28D9?style=for-the-badge"/>
-
-<br/><br/>
-
-<a href="https://github.com/mowljamr">
-<img src="https://img.shields.io/badge/GitHub-mowljamr-181717?style=for-the-badge&logo=github"/>
-</a>
-
-<a href="YOUR_LINKEDIN_URL">
-<img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
-</a>
-
-<a href="mailto:YOUR_EMAIL">
-<img src="https://img.shields.io/badge/Email-Contact-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
-</a>
-
-<br/><br/>
-
-<img src="https://komarev.com/ghpvc/?username=mowljamr&style=for-the-badge&color=7C3AED&label=PROFILE+VIEWS"/>
+[![Instagram](https://img.shields.io/badge/@mowli.learns-000000?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/mowli.learns)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-000000?style=for-the-badge&logo=linkedin&logoColor=white)](YOUR_LINKEDIN_URL)
+[![GitHub](https://img.shields.io/badge/GitHub-000000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/mowlijamr)
 
 </div>
 
 ---
 
-## ⚡ About Me
+<div align="center">
+
+## ⚡ THE CURIOUS MIND
+
+</div>
+
+I'm **Mowlija**, an Electronics & Communication Engineering student
+exploring the intersection of **AI, technology, design and development**.
+
+I learn by building, experiment with new technologies, create digital
+experiences and share what I discover through **@mowli.learns**.
+
+> **Doing what I once wished I could do.**
+
+---
+
+## 🧠 WHAT I DO
+
+| | Focus |
+|---|---|
+| 🤖 | **AI Enthusiast** — Exploring AI tools, applications & emerging technologies |
+| 🎨 | **UX/UI Designer** — Designing clean and user-focused digital experiences |
+| 💻 | **Full-Stack Developer** — Building responsive web applications |
+| 🎥 | **Content Creator** — AI, Tech, Learning & Student Journey |
+| ✂️ | **Video Editor** — Freelance editing for creators & brands |
+| ✍️ | **Script Writer** — Scripts, reels & digital content |
+
+---
+
+## 🚀 TECHNOLOGY
+
+### Development
+
+![HTML](https://img.shields.io/badge/HTML-000000?style=flat-square&logo=html5&logoColor=ff1a1a)
+![CSS](https://img.shields.io/badge/CSS-000000?style=flat-square&logo=css3&logoColor=ff1a1a)
+![JavaScript](https://img.shields.io/badge/JavaScript-000000?style=flat-square&logo=javascript&logoColor=ff1a1a)
+![React](https://img.shields.io/badge/React-000000?style=flat-square&logo=react&logoColor=ff1a1a)
+![Node.js](https://img.shields.io/badge/Node.js-000000?style=flat-square&logo=nodedotjs&logoColor=ff1a1a)
+![Express](https://img.shields.io/badge/Express-000000?style=flat-square&logo=express&logoColor=ff1a1a)
+![MongoDB](https://img.shields.io/badge/MongoDB-000000?style=flat-square&logo=mongodb&logoColor=ff1a1a)
+
+### Design
+
+![Figma](https://img.shields.io/badge/Figma-000000?style=flat-square&logo=figma&logoColor=ff1a1a)
+![Photoshop](https://img.shields.io/badge/Photoshop-000000?style=flat-square&logo=adobephotoshop&logoColor=ff1a1a)
+
+### AI & Tools
+
+![AI](https://img.shields.io/badge/AI%20%26%20Generative%20AI-000000?style=flat-square&logo=openai&logoColor=ff1a1a)
+![Git](https://img.shields.io/badge/Git-000000?style=flat-square&logo=git&logoColor=ff1a1a)
+![GitHub](https://img.shields.io/badge/GitHub-000000?style=flat-square&logo=github&logoColor=ff1a1a)
+![VS Code](https://img.shields.io/badge/VS%20Code-000000?style=flat-square&logo=visualstudiocode&logoColor=ff1a1a)
+
+---
 
 <div align="center">
+
+## 🩸 FEATURED PROJECT
+
+### ARAN — WOMEN SAFETY APP
+
+**Emergency assistance • Safety • Location • SOS**
+
+A women safety application designed to provide rapid emergency
+assistance through SOS activation, emergency communication,
+location sharing and safety-focused features.
+
+**Tech:** Flutter • Android • Geolocation • Emergency Automation
+
+</div>
+
+---
+
+## 🔥 AI PROJECTS
+
+- 🤖 **AI-Powered Resume Analyzer**
+- 🧠 **AI Career Guidance**
+- 💡 **AI-powered productivity concepts**
+- 🎨 **AI + UX experiments**
+- 🚀 **Generative AI projects**
+
+> More experiments are being built.
+
+---
+
+## 🎨 DESIGN × DEVELOPMENT
+
+I enjoy working at the intersection of:
 
 ```text
-┌─────────────────────────────────────────────────────┐
-│                                                     │
-│   👋 Hi, I'm M.R. Mowlija                          │
-│                                                     │
-│   🎓 Electronics & Communication Engineering        │
-│   🤖 AI Enthusiast                                  │
-│   💻 Full Stack Developer                           │
-│   🚀 Building AI-powered applications               │
-│   📚 Learning by building real projects             │
-│                                                     │
-└─────────────────────────────────────────────────────┘
-```
-
-</div>
-
-I am an **Electronics & Communication Engineering student** passionate about **Artificial Intelligence and Full Stack Development**.
-
-I enjoy transforming ideas into practical applications and learning new technologies by building real-world projects.
-
-My current journey focuses on **Generative AI, LLM applications, RAG, LangGraph, Agentic AI and Full Stack Development**.
-
----
-
-## 🧠 What I'm Exploring
-
-<div align="center">
-
-| 🤖 Artificial Intelligence | 💻 Development | 🔗 AI Systems |
-| :------------------------: | :------------: | :-----------: |
-|        Generative AI       |     Python     |      RAG      |
-|      LLM Applications      |   JavaScript   |   LangGraph   |
-|          AI Agents         |      React     |   Agentic AI  |
-|     Prompt Engineering     |      Flask     |  AI Workflows |
-
-</div>
-
----
-
-## 🛠️ Tech Stack
-
-### 💻 Programming
-
-<p align="center">
-
-<img src="https://skillicons.dev/icons?i=python,java,c,js,html,css"/>
-
-</p>
-
-### 🌐 Full Stack Development
-
-<p align="center">
-
-<img src="https://skillicons.dev/icons?i=react,bootstrap,flask,nodejs,mysql,mongodb"/>
-
-</p>
-
-### 🤖 AI & Development Tools
-
-<p align="center">
-
-<img src="https://skillicons.dev/icons?i=git,github,vscode,firebase"/>
-
-</p>
-
-<p align="center">
-
-<img src="https://img.shields.io/badge/Generative%20AI-8B5CF6?style=for-the-badge"/>
-<img src="https://img.shields.io/badge/LangGraph-111827?style=for-the-badge"/>
-<img src="https://img.shields.io/badge/LLM%20Applications-6D28D9?style=for-the-badge"/>
-<img src="https://img.shields.io/badge/RAG-A855F7?style=for-the-badge"/>
-
-</p>
-
----
-
-## 🤖 My AI Journey
-
-<div align="center">
-
-```text
-                     🧠 AI
-                      │
-                      ▼
-              ✨ Generative AI
-                      │
-                      ▼
-                 💬 LLMs
-                      │
-                      ▼
-                  🔍 RAG
-                      │
-                      ▼
-                🔗 LangGraph
-                      │
-                      ▼
-                 🤖 AI Agents
-                      │
-                      ▼
-               🚀 Agentic AI
-                      │
-                      ▼
-            🌎 Real AI Applications
-```
-
-</div>
-
-### Currently Learning
-
-* Generative AI
-* Large Language Models
-* RAG
-* LangGraph
-* AI Agents
-* Agentic Workflows
-* AI Application Development
-
----
-
-## 🚀 Featured Projects
-
-### 🤖 AI Research Assistant Agent
-
-> **Research smarter. Think deeper. Generate better reports.**
-
-An AI-powered research workflow that takes a topic and transforms it into a structured research report.
-
-```text
-              👤 User Topic
-                    │
-                    ▼
-               🧭 Planning
-                    │
-                    ▼
-               🔎 Research
-                    │
-                    ▼
-              📝 Summarization
-                    │
-                    ▼
-               🔄 Reflection
-                    │
-                    ▼
-               ✅ Quality Check
-                    │
-             ┌──────┴──────┐
-             ▼             ▼
-       Need Research?     Good
-             │             │
-            YES            ▼
-             │        📄 Report Writer
-             ▼             │
-         Researcher         │
-             │             │
-             └──────┬──────┘
-                    ▼
-              🎯 Final Report
-```
-
-**Tech Stack**
-
-`Python` `LangGraph` `Gemini` `Generative AI`
-
----
-
-### 🛒 E-Commerce Web Application
-
-> **A full-stack shopping experience with smart product discovery.**
-
-A full-stack e-commerce application focused on product browsing, search and shopping functionality.
-
-**Tech Stack**
-
-`React` `Flask` `SQLAlchemy` `MySQL`
-
-**Future Direction**
-
-```text
-Natural Language Query
-        ↓
-Understand User Intent
-        ↓
-Find Relevant Products
-        ↓
-Smart Product Results
-```
-
----
-
-### 🛡️ Women Safety Application
-
-> **Technology designed for emergency assistance.**
-
-A Flutter-based safety application focused on emergency situations.
-
-**Features**
-
-* 🚨 SOS Alert
-* 📱 Emergency Contacts
-* 🔊 Emergency Siren
-* 🔦 Flashlight Alert
-* 💬 Emergency SMS
-* 📍 Location Sharing
-* 📞 Fake Call
-* 📳 Shake Detection
-
-**Tech Stack**
-
-`Flutter` `Dart` `Firebase` `Android`
-
----
-
-### 💧 AquaSense 360
-
-> **Smart monitoring for smarter water management.**
-
-An IoT-based water monitoring and leakage detection project.
-
-**Features**
-
-* 💧 Water Quality Monitoring
-* 🚰 Leakage Detection
-* 📊 Sensor Monitoring
-* ⚙️ Tank Automation
-* ☁️ IoT Dashboard
-
-**Tech Stack**
-
-`ESP32` `IoT` `Sensors` `Firebase`
-
----
-
-## 📚 My Learning Journey
-
-<div align="center">
-
-```text
-🎓 ECE
-   │
-   ▼
-💻 Programming
-   │
-   ▼
-🐍 Python
-   │
-   ▼
-🌐 Web Development
-   │
-   ▼
-⚙️ Full Stack Development
-   │
-   ▼
-🤖 Artificial Intelligence
-   │
-   ▼
-✨ Generative AI
-   │
-   ▼
-🔗 Agentic AI
-   │
-   ▼
-🚀 AI-Powered Applications
-```
-
-</div>
-
-> **Learn → Build → Share → Improve → Repeat**
-
----
-
-## 🎯 Current Focus
-
-<div align="center">
-
-```yaml
-learning:
-  - Python
-  - SQL
-  - Full Stack Development
-  - Generative AI
-  - LLM Applications
-  - LangGraph
-
-building:
-  - AI Research Assistant Agent
-  - E-Commerce Application
-  - AI-powered projects
-
-exploring:
-  - RAG
-  - AI Agents
-  - Agentic Workflows
-  - LLM Applications
-
-goal:
-  - Build practical AI applications
-  - Strengthen software development skills
-  - Create production-oriented projects
-  - Prepare for software and AI opportunities
-```
-
-</div>
-
----
-
-## 📈 Developer Mindset
-
-<div align="center">
-
-```text
-              💡 IDEA
-                │
-                ▼
-            🔍 EXPLORE
-                │
-                ▼
-             🧠 LEARN
-                │
-                ▼
-             💻 BUILD
-                │
-                ▼
-             🧪 TEST
-                │
-                ▼
-             🚀 DEPLOY
-                │
-                ▼
-             📢 SHARE
-                │
-                ▼
-             🔄 IMPROVE
-                │
-                └──────────► 💡 IDEA
-```
-
-</div>
-
----
-
-## 📌 GitHub
-
-<div align="center">
-
-<a href="https://github.com/mowljamr">
-<img src="https://img.shields.io/badge/Explore%20My%20Repositories-181717?style=for-the-badge&logo=github&logoColor=white"/>
-</a>
-
-<br/><br/>
-
-<img src="https://img.shields.io/badge/Projects-12+-7C3AED?style=for-the-badge"/>
-<img src="https://img.shields.io/badge/Always-Learning-A855F7?style=for-the-badge"/>
-<img src="https://img.shields.io/badge/Always-Building-6D28D9?style=for-the-badge"/>
-
-</div>
-
----
-
-## 📫 Let's Connect
-
-<div align="center">
-
-<a href="YOUR_LINKEDIN_URL">
-<img src="https://img.shields.io/badge/LinkedIn-Connect%20With%20Me-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
-</a>
-
-<a href="mailto:YOUR_EMAIL">
-<img src="https://img.shields.io/badge/Gmail-Send%20Me%20an%20Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
-</a>
-
-<a href="https://github.com/mowljamr">
-<img src="https://img.shields.io/badge/GitHub-Follow%20My%20Journey-181717?style=for-the-badge&logo=github&logoColor=white"/>
-</a>
-
-</div>
-
----
-
-<div align="center">
-
-### 🚀 Keep Building. Keep Learning. Keep Growing.
-
-<br/>
-
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=18&duration=3000&pause=1000&color=A78BFA&center=true&vCenter=true&width=600&lines=Code+%7C+AI+%7C+Build+%7C+Learn;One+Project+At+a+Time+%F0%9F%9A%80;The+Journey+Has+Just+Started+%E2%9C%A8" alt="Footer Animation"/>
-
-<br/><br/>
-
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:a855f7,50:6d28d9,100:0f172a&height=140&section=footer"/>
-
-</div>
+          AI
+           ↓
+       TECHNOLOGY
+        ↙       ↘
+      DESIGN   CODE
+        ↘       ↙
+       EXPERIENCE
+           ↓
+        PEOPLE
